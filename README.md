@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @danielayaulli
-- ✨ Student passionate about data science and social impact  
-- 📊 Interested in machine learning, analytics, and enviornmental data  
-- 🌎 Currently learning: R, Python, and collaborative data projects  
-- 🚀 Open to volunteer opportunities and real-world challenges  
+- 🎓 Student passionate about data science and real-world impact  
+- 💻 Skilled in Python (Pandas, Scikit-learn) and R (RStudio)  
+- 🧠 Experienced in data analysis, visualization, and machine learning  
+- 🌱 Always learning — open to volunteer and collaborative projects
+
 
 
 <!---
